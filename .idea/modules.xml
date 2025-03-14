@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pgmagrpm/Pgmagrpm.iml" filepath="$PROJECT_DIR$/Pgmagrpm/Pgmagrpm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03/java03.iml" filepath="$PROJECT_DIR$/java03/java03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java2503.iml" filepath="$PROJECT_DIR$/java2503.iml" />
+    </modules>
+  </component>
+</project>
