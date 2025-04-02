@@ -1,6 +1,8 @@
 package test.SCD;
 
 
+import java.util.Scanner;
+
 /**
  * @program: java2503
  * @ClassName StudentClassDesign
@@ -22,7 +24,15 @@ package test.SCD;
 public class StudentClassDesign {
 
     public static void main(String[] args) {
-        System.out.println("请输入该学生的姓名额科目和成绩");
-        //Student xiaoming=new Student();
+        Scanner scanner =new Scanner(System.in);
+        System.out.println("请依次输入学生的姓名和");
+        Student xiaoming=new Student();
+        xiaoming.name=scanner.nextLine();
+        xiaoming.id=scanner.nextInt();
+        for (int i = 0; i < ; i++) {
+            
+        }
     }
+
+
 }

@@ -1,6 +1,8 @@
 package test.SCD;
 
 
+import java.util.ArrayList;
+
 /**
  * @program: java2503
  * @ClassName Student
@@ -12,8 +14,11 @@ package test.SCD;
 
 public class Student {
     public String name;
-    public String cname;
-    public int genders;
+    public int id;
+    //通过arraylist更方便插入
+    //相互没关联，但是通过下标进行一一对应
+    public ArrayList<String> subject;
+    public ArrayList<Double> scores;
 
 
 }
