@@ -29,7 +29,7 @@ public class StudentClassDesign {
         Student xiaoming=new Student();
         xiaoming.name=scanner.nextLine();
         xiaoming.id=scanner.nextInt();
-        for (int i = 0; i < ; i++) {
+        for (int i = 0; i < 100; i++) {
             
         }
     }

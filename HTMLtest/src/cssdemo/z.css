@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height:100px;
+    background-color: aqua;
+}
+/*冲突了的话行内样式优先使用*/
+/*span无法控制宽高*/
+span{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
