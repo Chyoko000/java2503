@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        //数组，一般使用单引号
+        function f1(){
+            var arr =['tom','jack','原神','启动'];
+            console.log("length长度"+ arr.length);
+            for (let i = 0; i < arr.length; i++) {
+                console.log(arr[i]);//打印
+            };
+            //数组信息添加尾部
+            arr.push('xiaohong');
+            console.log(arr);
+            //移除数组中最后一个元素
+            var info1 =arr.shift();
+            console.log(info1);
+            //数组翻转
+            console.log()
+
+        }
+        //这个f1此时很重要,因为你要调用它他才会运行
+        f1();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

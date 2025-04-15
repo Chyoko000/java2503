@@ -17,8 +17,21 @@ public class Student {
     public int id;
     //通过arraylist更方便插入
     //相互没关联，但是通过下标进行一一对应
+    //输入是下标是一样的，这样就能求出想要的分数之后用下标进行输出课程
     public ArrayList<String> subject;
     public ArrayList<Double> scores;
+
+
+    public void chenge(){
+
+    }
+
+
+    public void tobeArrays(){
+
+
+
+    }
 
 
 }

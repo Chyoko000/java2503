@@ -27,6 +27,7 @@ public class Smalltopic {
         String input = scanner.nextLine(); // 读取整行输入
         //此时缓存区进来一个字符串
         //此时将字符串转换为字符数组
+        //用字符数组可以判断哪个位置为空
         char[] inputArray = input.toCharArray(); // 将字符串转换为字符数组
 
         //算法阶段

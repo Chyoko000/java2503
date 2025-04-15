@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HTMLtest/HTMLtest.iml" filepath="$PROJECT_DIR$/HTMLtest/HTMLtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pgmagrpm/Pgmagrpm.iml" filepath="$PROJECT_DIR$/Pgmagrpm/Pgmagrpm.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jPgmagrpm/jPgmagrpm.iml" filepath="$PROJECT_DIR$/jPgmagrpm/jPgmagrpm.iml" />
       <module fileurl="file://$PROJECT_DIR$/java2503.iml" filepath="$PROJECT_DIR$/java2503.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbctest/jdbctest.iml" filepath="$PROJECT_DIR$/jdbctest/jdbctest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jq/jq.iml" filepath="$PROJECT_DIR$/jq/jq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jstest/jstest.iml" filepath="$PROJECT_DIR$/jstest/jstest.iml" />
     </modules>
   </component>
 </project>
